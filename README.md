@@ -52,12 +52,12 @@ npm install
 npm run brainrot
 ```
 
-🤡 Contributing
+## 🤡 Contributing
 Want to contribute to the madness? Feel free to submit a PR! Just follow these simple guidelines:
 
 Your code must be inconveniently stupid, not even complex.
 If it's complex, it should remain readable. (We need to understand to have some HAHA's you know...)
 Unnecessary layers of abstraction are highly encouraged.
 
-📜 License
+## 📜 License
 Licensed under the WTFPL – Do whatever the f\*\*\* you want, but at least try to make it ridiculously inefficient.
